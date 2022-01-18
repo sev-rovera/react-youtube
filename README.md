@@ -1,3 +1,9 @@
+# The App
+
+This app relies on the Youtube API to search and display a list of 10 videos based on a default search term or a term typed by the user.
+The axios library is used to fetch data from the API.
+For deployments, the KEY in api/youtube.js needs to be changed (the currently provided key has restrictions for local use only).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
